@@ -1,0 +1,5 @@
+{
+  "name": "大象專題研習測驗 (SPA)",
+  "description": "一個關於大象知識的限時挑戰測驗，隨機從100題中抽選10題，限時30秒完成。",
+  "requestFramePermissions": []
+}
